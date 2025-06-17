@@ -1,0 +1,10 @@
+jualan/
+├── src/
+│   └── (kosong, nanti diisi file .py)
+├── data/
+│   └── (kosong, nanti diisi file transaksi.csv)
+├── doc/
+│   └── (kosong, nanti diisi dokumentasi)
+├── .gitignore
+├── README.md
+└── requirements.txt
